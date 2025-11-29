@@ -22,8 +22,8 @@ Universidade Federal de Lavras - 2º Semestre 2025
 
 Este projeto implementa um **simulador funcional** completo para o processador RISC de 32 bits **UFLA-RISC**, incluindo:
 
-1. **Montador (Assembler)**: Converte código assembly em binário  
-2. **Simulador**: Executa programas binários com pipeline de 4 estágios  
+1. **Interpretador (interpretador.py)**: Converte código assembly em binário  
+2. **Simulador (simulador.py)**: Executa programas binários com pipeline de 4 estágios  
 
 ### Características Principais
 
