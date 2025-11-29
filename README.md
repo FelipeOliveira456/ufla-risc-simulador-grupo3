@@ -1,7 +1,14 @@
 # Simulador Funcional do Processador UFLA-RISC
 
-Trabalho Prático 1 - Arquitetura de Computadores II
+Trabalho Prático 1 - Arquitetura de Computadores II  
 Universidade Federal de Lavras - 2º Semestre 2025
+
+**Autores:**
+
+- Felipe Geraldo de Oliveira  
+- Leonardo Elias Rodrigues  
+- Orlando Leite Fernandes de Oliveira  
+- Gabriel Marcos Lopes
 
 ## 📋 Sumário
 
